@@ -3,19 +3,19 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3670487727917109/1363574287",
-      "main_ads_intertitial":"ca-app-pub-3670487727917109/3234209098",
-      "main_ads_natives":"ca-app-pub-3670487727917109/7545839259",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_natives":"",
       "backup_ads_natives":"null",
-      "backup_ads_banner":"de4a28cbc522d1d5",
-      "backup_ads_intertitial":"cfc6abc0ba5f6231",
-      "open_ads_admob":"ca-app-pub-3670487727917109/9980430905",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "open_ads_admob":"",
       "open_ads_alien":"null",
       "switch_open_ads":"1",
       "switch_banner_natives_ads":"2",
       "interval_intertitial": 5,
       "initialize_sdk":"null",
-      "initialize_sdk_backup_ads":"Z1i2PB1d7KboFQRg3bfVEn68CcaNQBIETWRktkVOrzSVOkdgglaOtRe6L-PwBvaaz3dIZI_led8R59A2CiakA1",
+      "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
@@ -95,15 +95,15 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Football Manager",
-      "title": "Best Tips for Setting Up your Team Tactics",
+      "name_category": "Tips",
+      "title": "Soccer Manager 2023 Tactics",
       "image": "file:///android_asset/image/socere1.webp",
       "description": "The tactics section allows you to set up your tactics for your club including formations, play styles, and player roles.",
       "link": "file:///android_asset/guide/guide1.html"
     },
     {
       "id": 2,
-      "name_category": "Football Manager",
+      "name_category": "Tricks",
       "title": "How to Set the Best Team",
       "image": "file:///android_asset/image/socere4.webp",
       "description": "You can swipe left to get details about the next fixture and can plan your tactics according to the information you are getting from the opponent’s team. The next fixture screen shows important information about the next club that you will play including their key players, expected lineup, and tactics",
@@ -111,19 +111,43 @@
     },
     {
       "id": 3,
-      "name_category": "Football Manager",
+      "name_category": "Tips",
       "title": "Tips to Earn More Money",
-      "image": "file:///android_asset/image/socere5.webp",
+      "image": "file:///android_asset/image/category.webp",
       "description": "Soccer Manager 2023 is the best strategic managerial football game in which you have to manage your club or other partners club. The game is popular among gamers due to its best managerial experience. But many gamers find some problems making money in the game as they don’t know the tips and tricks for collecting money. In this guide, we will be covering some pro tips and will be providing the best guide to making more money in Soccer Manager 2023 ",
       "link": "file:///android_asset/guide/guide3.html"
     },
     {
       "id": 4,
-      "name_category": "Football Manager",
+      "name_category": "Tips",
       "title": "5 TIPS FOR A SUCCESSFUL SEASON IN FOOTBALL MANAGER 2023",
       "image": "file:///android_asset/image/socere2.webp",
       "description": " Here are five tips to help you achieve a successful season on Football Manager 2023.",
       "link": "file:///android_asset/guide/guide4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tips",
+      "title": "6 SMALL CLUBS YOU COULD BUILD UP IN FOOTBALL MANAGER 2023",
+      "image": "file:///android_asset/image/socere3.webp",
+      "description": " Here are six small teams in Football Manager for a long-term save where you can build and grow. ",
+      "link": "file:///android_asset/guide/guide5.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Tricks",
+      "title": "FM 2023 Formation N Great Tacktic",
+      "image": "file:///android_asset/image/socere6.webp",
+      "description": " Midfield Beef 4-3-3 CarloBall Sexy Sevielle 3-5-2 and Other ",
+      "link": "file:///android_asset/guide/guide6.html"
+    },
+    {
+      "id": 10,
+      "name_category": "More",
+      "title": "Next Tips N Tricks",
+      "image": "file:///android_asset/image/category.webp",
+      "description": "Coming Soon After Update This App Next Version",
+      "link": "file:///android_asset/guide/guide10.html"
     }
   ]
 }
